@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
+<h1 align="center">Hi, I'm Rafael</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **rafaelcacilhas@gmail.com**
+- 📫 You can reach me at **rafaelcacilhas@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
