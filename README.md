@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rafael</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Back-end development**
 
 - 📫 You can reach me at **rafaelcacilhas@gmail.com**
 
